@@ -1,0 +1,8 @@
+{
+  "name": "Zoomer",
+  "symbol": "ZOOM",
+  "uri": "https://raw.githubusercontent.com/beskU/zoomer-token/main/zoomer-logo.png",  // Your logo URL
+  "decimals": 9,
+  "address": "A6sC79CKQbZW8dvGafyJAzWJvQAPjLTM9iyhCLEEVUEd",  // Your token address
+  "creator": "CfA6HcVY9GVTxeWvM1mvFxybgxuLgu5WfVwxjyughKZR"  // Your wallet address
+}
